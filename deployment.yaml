@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: surajsdm/my-app:v1
+        image: surajsdm/my-app:v2
         imagePullPolicy: Always
         ports:
         - containerPort: 80
