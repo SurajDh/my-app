@@ -1,5 +1,0 @@
-git status
-git add .
-git commit -m "new commit automated : Updated image to v3"
-git branch -M master
-git push -u origin master
