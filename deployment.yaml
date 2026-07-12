@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: surajsdm/my-app:v8
+        image: surajsdm/my-app:v9
         imagePullPolicy: Always
 
         ports:
